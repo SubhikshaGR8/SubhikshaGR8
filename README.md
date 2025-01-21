@@ -33,7 +33,7 @@
 
 - 🔭 I’m currently working as Business Analyst
 - 🌱 I’m currently learning Data Science
-- 📫 How to reach me: subhikshrajes@gmail.com
+- 📫 How to reach me: subhikshrajes@gmail.com, https://www.linkedin.com/in/subhiksha-rajeskannan/
 
 
 
