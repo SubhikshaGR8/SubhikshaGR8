@@ -1,9 +1,4 @@
-## Hi there, Nice to see you in my page :)👋
 
-
-- 🔭 I’m currently working as Business Analyst
-- 🌱 I’m currently learning Data Science
-- 📫 How to reach me: subhikshrajes@gmail.com
 
 
 ## Hi there 👋
@@ -33,13 +28,13 @@
   </p>
 </div>
 
-Here are some ideas to get you started:
+## Hi there, Nice to see you in my page :)👋
 
-- 🔭 I’m currently working as a Business Analyst.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: subhiksharajes@gmail.com
+
+- 🔭 I’m currently working as Business Analyst
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me: subhikshrajes@gmail.com
+
 
 
 # Skills:- 
