@@ -17,7 +17,7 @@
 
   <p align="center">
     All About my Professional Journey!
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="#"><strong>Know more »</strong></a>
     <br />
     <br />
     <a href="https://subhikshagr.vercel.app/">View Portfolio</a>
